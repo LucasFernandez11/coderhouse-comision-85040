@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+/* reset de estilos */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* fin de reset */
+
+.contenedor-body{
+    background-color: brown;
+}
+/* encabezado index */
+
+header{
+    background-color: aquamarine;
+    color: red;
+    text-align: center;
+    height: 20vh;
+}
+
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    display: inline;
+    margin: 10px;
+
+}
+
+header nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+header nav ul li p{
+    color: blue;
+    text-decoration: underline;
+    font-size: 28px;
+    font-family: "Bitcount Prop Single Ink", system-ui, sans-serif;
+}
+
+/* fin encabezado index */
+
+
+/* header de servicios */
+main{
+    height: 70vh;
+}
+
+footer{
+    height: 10vh;
+}
+
+
+
+
+
+
+
+
+
+
